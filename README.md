@@ -55,6 +55,8 @@
 
 第七节  本章参考文献
 
+- Tamara G. Kolda, Brett W. Bader, 2009. [*Tensor Decompositions and Applications*](https://www.sandia.gov/~tgkolda/pubs/pubfiles/TensorReview.pdf). SIAM REVIEW Vol. 51, No. 3. pp. 455-500.
+
 ## 第三章  统计学习基础
 
 第一节  最大似然估计
@@ -74,6 +76,9 @@
 第七节  案例：贝叶斯线性回归
 
 第八节  本章参考文献
+
+- Gelman, A., Stern, H. S., Carlin, J. B., Dunson, D. B., Vehtari, A., & Rubin, D. B., 2013. [*Bayesian data analysis*](https://xs.glgoo.top/scholar?hl=zh-CN&as_sdt=0%2C5&q=Bayesian+Data+Analysis&btnG=). Chapman and Hall/CRC.
+
 
 ## 第四章  矩阵分解
 
@@ -103,6 +108,10 @@
 
 第六节  本章参考文献
 
+- Tipping, M. E., & Bishop, C. M., 1999. [*Probabilistic principal component analysis*](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/1467-9868.00196). Journal of the Royal Statistical Society: Series B (Statistical Methodology), 61(3), 611-622.
+
+- Bishop, C. M., 1999. [*Bayesian pca*](http://papers.nips.cc/paper/1549-bayesian-pca.pdf). In Advances in neural information processing systems (pp. 382-388).
+
 ## 第六章  张量分解
 
 第一节  Tucker分解
@@ -111,6 +120,8 @@
 
 第三节  本章参考文献
 
+- Tamara G. Kolda, Brett W. Bader, 2009. [*Tensor Decompositions and Applications*](https://www.sandia.gov/~tgkolda/pubs/pubfiles/TensorReview.pdf). SIAM REVIEW Vol. 51, No. 3. pp. 455-500.
+
 ## 第七章  低秩张量复原
 
 第一节  核范数最小化
@@ -118,6 +129,8 @@
 第二节  增强拉格朗日算子
 
 第三节  本章参考文献
+
+- Liu, J., Musialski, P., Wonka, P., & Ye, J, 2013. [*Tensor completion for estimating missing values in visual data*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6138863). IEEE transactions on pattern analysis and machine intelligence, 35(1), 208-220.
 
 ## 第八章  贝叶斯张量分解
 
@@ -130,6 +143,19 @@
 第四节  贝叶斯时序张量分解
 
 第五节  本章参考文献
+
+- Zhao, Q., Zhang, L., & Cichocki, A., 2015. [*Bayesian CP factorization of incomplete tensors with automatic rank determination*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7010937). IEEE transactions on pattern analysis and machine intelligence, 37(9), 1751-1763.
+
+- Zhao, Q., Zhang, L., & Cichocki, A., 2015. [*Bayesian sparse Tucker models for dimension reduction and tensor completion*](https://arxiv.org/pdf/1505.02343.pdf). arXiv.
+
+- Schein, A., Paisley, J., Blei, D. M., & Wallach, H., 2015. [*Bayesian poisson tensor factorization for inferring multilateral relations from sparse dyadic event counts*](http://delivery.acm.org/10.1145/2790000/2783414/p1045-schein.pdf?ip=120.236.174.155&id=2783414&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E3D07CFA6C3F555EA%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1547300174_2e6550300f22e21c87b1e98afc85d9b8). In Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 1045-1054). ACM.
+
+- Schein, A., Zhou, M., Blei, D. M., & Wallach, H., 2016. [*Bayesian poisson tucker decomposition for learning the structure of international relations*](http://proceedings.mlr.press/v48/schein16.pdf). arXiv.
+
+- Gopalan, P., Hofman, J. M., & Blei, D. M., 2013. [*Scalable recommendation with poisson factorization*](https://arxiv.org/pdf/1311.1704.pdf). arXiv.
+
+- Gopalan, P., Hofman, J. M., & Blei, D. M., 2015. [*Scalable Recommendation with Hierarchical Poisson Factorization*](http://www.cs.columbia.edu/~blei/papers/GopalanHofmanBlei2015.pdf). In UAI (pp. 326-335).
+
 
 ## 第九章  深度张量分解
 
@@ -171,6 +197,13 @@
   
 第三节  本章参考文献
 
+- Chen, X., He, Z., & Sun, L., 2019. [*A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation*](https://ac.els-cdn.com/S0968090X1830799X/1-s2.0-S0968090X1830799X-main.pdf?_tid=aacbc3b8-83c5-410d-942b-b3e211878a53&acdnat=1547299868_fdfd4bd4e940c400b3bd95d368f620d6). Transportation Research Part C: Emerging Technologies, 98, 73-84.
+
+- Sun, L., & Axhausen, K. W., 2016. [*Understanding urban mobility patterns with a probabilistic tensor factorization framework*](https://ac.els-cdn.com/S0191261516300261/1-s2.0-S0191261516300261-main.pdf?_tid=5b860e08-f50e-43e7-88fd-67e8a546c8a5&acdnat=1547300718_a39626f45b72887d0897b9c5dcc996d1). Transportation Research Part B: Methodological, 91, 511-524.
+
+- Chen, X., He, Z., & Wang, J., 2018. [*Spatial-temporal traffic speed patterns discovery and incomplete data recovery via SVD-combined tensor decomposition*](https://ac.els-cdn.com/S0968090X17302966/1-s2.0-S0968090X17302966-main.pdf?_tid=b5aa0326-405f-4efb-a725-3e18e0879e53&acdnat=1547301047_76cc7a91a77b051162899536e31c3320). Transportation Research Part C: Emerging Technologies, 86, 59-77.
+
+
 ## 第十一章  张量分解与交通预测
 
 第一节  以相似性为基础的交通预测模型
@@ -184,3 +217,6 @@
   - 个体出行重构
   
 第四节  本章参考文献
+
+
+
