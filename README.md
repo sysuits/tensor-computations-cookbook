@@ -51,6 +51,8 @@ Contents
 
 - Cichocki, A., Phan, A. H., Zhao, Q., Lee, N., Oseledets, I., Sugiyama, M., & Mandic, D. P., 2017. [*Tensor networks for dimensionality reduction and large-scale optimization: Part 2 applications and future perspectives*](https://www.nowpublishers.com/article/DownloadSummary/MAL-067). Foundations and Trends® in Machine Learning, 9(6), 431-673.
 
+- CICHOCKI, Andrzej, et al., 2009. [*Nonnegative matrix and tensor factorizations: applications to exploratory multi-way data analysis and blind source separation*](https://sci.hub.ac.cn/scholar?hl=zh-TW&as_sdt=0%2C5&q=Nonnegative+Matrix+and+Tensor+Factorizations&btnG=). John Wiley & Sons, 2009.
+
 
 ## 第二章 张量计算的数学基础
 
@@ -145,6 +147,8 @@ Contents
 
 - Kim, J., & Park, H., 2008. [*Sparse nonnegative matrix factorization for clustering*](https://smartech.gatech.edu/bitstream/handle/1853/20058/GT-CSE-08-01.pdf?sequence=1&isAllowed=y). Georgia Institute of Technology.
 
+- Petersen, K. B., & Pedersen, M. S., 2008. [*The matrix cookbook*](http://www.cim.mcgill.ca/~dudek/417/Papers/matrixOperations.pdf). Technical University of Denmark, 7(15), 510.
+
 
 ## 第五章 主成分分析与压缩感知
 
@@ -230,6 +234,10 @@ Contents
 - Rai, P., Hu, C., Harding, M., & Carin, L., 2015. [*Scalable Probabilistic Tensor Factorization for Binary and Count Data*](https://ccc.glgoo.top/scholar?hl=zh-CN&as_sdt=0%2C5&q=Scalable+Probabilistic+Tensor+Factorization+for+Binary+and+Count+Data&btnG=). In IJCAI (pp. 3770-3776).
 
 - Rai, P., Wang, Y., Guo, S., Chen, G., Dunson, D., & Carin, L., 2014. [*Scalable Bayesian low-rank decomposition of incomplete multiway tensors*](http://proceedings.mlr.press/v32/rai14.pdf). In International Conference on Machine Learning (pp. 1800-1808).
+
+- JOHNDROW, James E.; BHATTACHARYA, Anirban; DUNSON, David B., 2017. [*Tensor decompositions and sparse log-linear models*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5764221/pdf/nihms855931.pdf). Annals of statistics, 2017, 45.1: 1.
+
+- HU, Changwei. 2017. [*Scalable Bayesian Matrix and Tensor Factorization for Discrete Data*](https://sci.hub.ac.cn/scholar?hl=zh-TW&as_sdt=0%2C5&q=Scalable+Bayesian+Matrix+and+Tensor+Factorization+for+Discrete+Data&btnG=). PhD Thesis.
 
 
 ## 第九章 深度张量分解
