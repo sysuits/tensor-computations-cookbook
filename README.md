@@ -7,30 +7,17 @@
 Contents
 --------
 
--   [第一章  总论](#第一章-总论)
--   [Tasks and Challenges](#tasks-and-challenges)
-    -   [Missing data imputation](#missing-data-imputation)
-    -   [Rolling traffic prediction](#rolling-traffic-prediction)
--   [What we do just now!](#what-we-do-just-now)
--   [What we care about!](#what-we-care-about)
--   [Overview](#overview)
--   [Selected References](#selected-references)
-    -   [Spatio-temporal forecasting](#spatio-temporal-forecasting)
-    -   [Principal component analysis](#principal-component-analysis)
-    -   [Guassian process](#gaussian-process)
-    -   [Matrix factorization](#matrix-factorization)
-    -   [Bayesian matrix and tensor factorization](#bayesian-matrix-and-tensor-factorization)
-    -   [Low-rank tensor completion](#low-rank-tensor-completion)
-    -   [Generative Adversarial Nets](#generative-adversarial-nets)
-    -   [Variational Autoencoder](#variational-autoencoder)
-    -   [Tensor regression](#tensor-regression)
-    -   [Poisson matrix factorization](#poisson-matrix-factorization)
-    -   [Graph signal processing](#graph-signal-processing)
-    -   [Graph neural network](#graph-neural-network)
--   [Our Publications](#our-publications)
--   [License](#license)
-  
-
+-   [第一章    总论](#第一章-总论)
+-   [第二章    张量计算的数学基础](#第二章-张量计算的数学基础)
+-   [第三章    统计学习基础](#第三章-统计学习基础)
+-   [第四章    矩阵分解](#第四章-矩阵分解)
+-   [第五章    主成分分析与压缩感知](#第五章-主成分分析与压缩感知)
+-   [第六章    张量分解](#第六章-张量分解)
+-   [第七章    低秩张量复原](#第七章-低秩张量复原)
+-   [第八章    贝叶斯张量分解](#第八章-贝叶斯张量分解)
+-   [第九章    深度张量分解](#第九章-深度张量分解)
+-   [第十章    张量与交通数据修复](#第十章-张量与交通数据修复)
+-   [第十一章  张量分解与交通预测](#第十一章-张量分解与交通预测)
   
 ## 第一章 总论
 
@@ -133,9 +120,8 @@ Contents
 
 第六节  本章参考文献
 
+- Golub, G. H., & Van Loan, C. F., 2012. [*Matrix computations*](https://sci-hub.org.cn/scholar?hl=zh-CN&as_sdt=0%2C5&q=Matrix+computions&btnG=&oq=Qibin+)(Vol. 3). JHU Press.
 
-
-Golub, G. H., & Van Loan, C. F. (2012). Matrix computations (Vol. 3). JHU Press.
 
 ## 第五章  主成分分析与压缩感知
 
