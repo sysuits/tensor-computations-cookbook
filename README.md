@@ -23,11 +23,17 @@ Contents
 
 第一节  交通数据特性
 
-【主要介绍交通数据本身具有高维度、随机性、稀疏性以及检测器带来的不完备性，通过列举实例生动展现这些特性】
+- 高维度、随机性、稀疏性以及检测器带来的不完备性
+
+- 列举交通数据实例
 
 第二节  张量简介
 
-【主要介绍张量的定义及其数据表达的优势，简单引入张量分解的一些思想】
+- 张量定义
+
+- 张量表达数据的优势
+
+- 张量分解概述
 
 第三节  张量与交通数据
 
@@ -123,6 +129,7 @@ Contents
 
 - Golub, G. H., & Van Loan, C. F., 2012. [*Matrix computations*](https://sci-hub.org.cn/scholar?hl=zh-CN&as_sdt=0%2C5&q=Matrix+computions&btnG=&oq=Qibin+)(Vol. 3). JHU Press.
 
+- Salakhutdinov, R., & Mnih, A., 2008. [*Bayesian probabilistic matrix factorization using Markov chain Monte Carlo*](http://delivery.acm.org/10.1145/1400000/1390267/p880-salahutdinov.pdf?ip=120.236.174.155&id=1390267&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E3D07CFA6C3F555EA%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1547381467_6d56beef989a8ce01131507553552fa1). In Proceedings of the 25th international conference on Machine learning (pp. 880-887). ACM.
 
 ## 第五章 主成分分析与压缩感知
 
@@ -198,6 +205,7 @@ Contents
 
 - Rai, P., Hu, C., Harding, M., & Carin, L., 2015. [*Scalable Probabilistic Tensor Factorization for Binary and Count Data*](https://ccc.glgoo.top/scholar?hl=zh-CN&as_sdt=0%2C5&q=Scalable+Probabilistic+Tensor+Factorization+for+Binary+and+Count+Data&btnG=). In IJCAI (pp. 3770-3776).
 
+- Rai, P., Wang, Y., Guo, S., Chen, G., Dunson, D., & Carin, L., 2014. [*Scalable Bayesian low-rank decomposition of incomplete multiway tensors*](http://proceedings.mlr.press/v32/rai14.pdf). In International Conference on Machine Learning (pp. 1800-1808).
 
 
 ## 第九章 深度张量分解
@@ -248,7 +256,9 @@ Contents
 
 - Fanaee-T, H., & Gama, J., 2016. [*Event detection from traffic tensors: A hybrid model*](https://ac.els-cdn.com/S0925231216302235/1-s2.0-S0925231216302235-main.pdf?_tid=b05da122-d3e7-4890-bc49-c2435d148c81&acdnat=1547339421_7bdca0bae18a2a9fd1b6a97638969bf7). Neurocomputing, 203, 22-33.
 
-- Asif, M. T., Mitrovic, N., Dauwels, J., & Jaillet, P, 2016. [*Matrix and tensor based methods for missing data estimation in large traffic networks*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7384738). IEEE Transactions on Intelligent Transportation Systems, 17(7), 1816-1825.
+- Asif, M. T., Mitrovic, N., Dauwels, J., & Jaillet, P., 2016. [*Matrix and tensor based methods for missing data estimation in large traffic networks*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7384738). IEEE Transactions on Intelligent Transportation Systems, 17(7), 1816-1825.
+
+- Ran, B., Tan, H., Wu, Y., & Jin, P. J., 2016. [*Tensor based missing traffic data completion with spatial–temporal correlation*](https://ac.els-cdn.com/S0378437115008870/1-s2.0-S0378437115008870-main.pdf?_tid=b0968db8-de96-4a12-a27b-274d929d4d64&acdnat=1547381638_c29e502169a405b204acdedaa2e7f78b). Physica A: Statistical Mechanics and its Applications, 446, 54-63.
 
 
 ## 第十一章 张量分解与交通预测
