@@ -3,6 +3,34 @@
   - 作者：何兆成（中山大学）
   
   > 评述：我们的手册实际上是要提出一种面向交通数据分析与计算的范式，架构包括数据组织-特征计算-分析应用三个层次。第一部分数据组织讲清楚交通数据的多维性、随机性、稀疏性、物理性的特点，通过数据例子呈现这些特性，引出张量结构的优势以及要解决的问题；第二部分是特征计算，这一部分要承前启后，引入满足交通数据特性下的特征计算的各类方法；第三部分是应用分析，给出交通数据分析应用的标准问题：修复问题、聚类问题、预测问题（以后结合图谱还有推理问题），这部分结合案例进行介绍。(何兆成，2018.12.14)
+
+Contents
+--------
+
+-   [第一章  总论（Introduction）](#第一章 总论)
+-   [Tasks and Challenges](#tasks-and-challenges)
+    -   [Missing data imputation](#missing-data-imputation)
+    -   [Rolling traffic prediction](#rolling-traffic-prediction)
+-   [What we do just now!](#what-we-do-just-now)
+-   [What we care about!](#what-we-care-about)
+-   [Overview](#overview)
+-   [Selected References](#selected-references)
+    -   [Spatio-temporal forecasting](#spatio-temporal-forecasting)
+    -   [Principal component analysis](#principal-component-analysis)
+    -   [Guassian process](#gaussian-process)
+    -   [Matrix factorization](#matrix-factorization)
+    -   [Bayesian matrix and tensor factorization](#bayesian-matrix-and-tensor-factorization)
+    -   [Low-rank tensor completion](#low-rank-tensor-completion)
+    -   [Generative Adversarial Nets](#generative-adversarial-nets)
+    -   [Variational Autoencoder](#variational-autoencoder)
+    -   [Tensor regression](#tensor-regression)
+    -   [Poisson matrix factorization](#poisson-matrix-factorization)
+    -   [Graph signal processing](#graph-signal-processing)
+    -   [Graph neural network](#graph-neural-network)
+-   [Our Publications](#our-publications)
+-   [License](#license)
+  
+
   
 ## 第一章  总论（Introduction）
 
@@ -25,7 +53,12 @@
 
 第五节  本章参考文献
 
-- Tamara G. Kolda, Brett W. Bader, 2009. [*Tensor Decompositions and Applications*](https://www.sandia.gov/~tgkolda/pubs/pubfiles/TensorReview.pdf). SIAM REVIEW Vol. 51, No. 3. pp. 455-500 .
+- Tamara G. Kolda, Brett W. Bader, 2009. [*Tensor Decompositions and Applications*](https://www.sandia.gov/~tgkolda/pubs/pubfiles/TensorReview.pdf). SIAM REVIEW Vol. 51, No. 3. pp. 455-500.
+
+- Cichocki, A., Lee, N., Oseledets, I., Phan, A. H., Zhao, Q., & Mandic, D. P., 2016. [*Tensor networks for dimensionality reduction and large-scale optimization: Part 1 low-rank tensor decompositions*](https://www.nowpublishers.com/article/DownloadSummary/MAL-059). Foundations and Trends® in Machine Learning, 9(4-5), 249-429.
+
+- Cichocki, A., Phan, A. H., Zhao, Q., Lee, N., Oseledets, I., Sugiyama, M., & Mandic, D. P., 2017. [*Tensor networks for dimensionality reduction and large-scale optimization: Part 2 applications and future perspectives*](https://www.nowpublishers.com/article/DownloadSummary/MAL-067). Foundations and Trends® in Machine Learning, 9(6), 431-673.
+
 
 ## 第二章  张量计算的数学基础
 
@@ -100,6 +133,10 @@
 
 第六节  本章参考文献
 
+
+
+Golub, G. H., & Van Loan, C. F. (2012). Matrix computations (Vol. 3). JHU Press.
+
 ## 第五章  主成分分析与压缩感知
 
 第一节  主成分分析
@@ -131,6 +168,10 @@
 - Tamara G. Kolda, Brett W. Bader, 2009. [*Tensor Decompositions and Applications*](https://www.sandia.gov/~tgkolda/pubs/pubfiles/TensorReview.pdf). SIAM REVIEW Vol. 51, No. 3. pp. 455-500.
 
 - Oseledets, I. V., 2011. [*Tensor-train decomposition*](https://epubs.siam.org/doi/pdf/10.1137/090752286). SIAM Journal on Scientific Computing, 33(5), 2295-2317.
+
+- Yuan, L., Li, C., 2018. [*Tensor Ring Decomposition with Rank Minimization on Latent Space: An Efficient Approach for Tensor Completion*](https://arxiv.org/pdf/1809.02288.pdf). arXiv.
+
+
 
 
 ## 第七章  低秩张量复原
