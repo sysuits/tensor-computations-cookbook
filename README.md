@@ -79,6 +79,9 @@
 
 - Gelman, A., Stern, H. S., Carlin, J. B., Dunson, D. B., Vehtari, A., & Rubin, D. B., 2013. [*Bayesian data analysis*](https://xs.glgoo.top/scholar?hl=zh-CN&as_sdt=0%2C5&q=Bayesian+Data+Analysis&btnG=). Chapman and Hall/CRC.
 
+- Blei, D. M., Kucukelbir, A., & McAuliffe, J. D., 2017. [*Variational inference: A review for statisticians*](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2017.1285773?needAccess=true). Journal of the American Statistical Association, 112(518), 859-877.
+
+
 
 ## 第四章  矩阵分解
 
@@ -131,6 +134,9 @@
 第三节  本章参考文献
 
 - Liu, J., Musialski, P., Wonka, P., & Ye, J, 2013. [*Tensor completion for estimating missing values in visual data*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6138863). IEEE transactions on pattern analysis and machine intelligence, 35(1), 208-220.
+
+- Chen, Y. L., Hsu, C. T., & Liao, H. Y. M., 2014. [*Simultaneous tensor decomposition and completion using factor priors*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6587455). IEEE transactions on pattern analysis and machine intelligence, 36(3), 577-591.
+
 
 ## 第八章  贝叶斯张量分解
 
@@ -203,6 +209,10 @@
 
 - Chen, X., He, Z., & Wang, J., 2018. [*Spatial-temporal traffic speed patterns discovery and incomplete data recovery via SVD-combined tensor decomposition*](https://ac.els-cdn.com/S0968090X17302966/1-s2.0-S0968090X17302966-main.pdf?_tid=b5aa0326-405f-4efb-a725-3e18e0879e53&acdnat=1547301047_76cc7a91a77b051162899536e31c3320). Transportation Research Part C: Emerging Technologies, 86, 59-77.
 
+- Fanaee-T, H., & Gama, J., 2016. [*Event detection from traffic tensors: A hybrid model*](https://ac.els-cdn.com/S0925231216302235/1-s2.0-S0925231216302235-main.pdf?_tid=b05da122-d3e7-4890-bc49-c2435d148c81&acdnat=1547339421_7bdca0bae18a2a9fd1b6a97638969bf7). Neurocomputing, 203, 22-33.
+
+- Asif, M. T., Mitrovic, N., Dauwels, J., & Jaillet, P, 2016. [*Matrix and tensor based methods for missing data estimation in large traffic networks*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7384738). IEEE Transactions on Intelligent Transportation Systems, 17(7), 1816-1825.
+
 
 ## 第十一章  张量分解与交通预测
 
@@ -218,5 +228,14 @@
   
 第四节  本章参考文献
 
+- Yu, R., Zheng, S., Anandkumar, A., & Yue, Y., 2017. [*Long-term forecasting using tensor-train RNNs*](https://arxiv.org/pdf/1711.00073.pdf). arXiv.
+
+- Han, Y., & Moutarde, F., 2012. [*Analysis of large-scale traffic dynamics using non-negative tensor factorization*](https://arxiv.org/ftp/arxiv/papers/1212/1212.4675.pdf). arXiv.
+
+- Tan, H., Wu, Y., Shen, B., Jin, P. J., & Ran, B., 2016. [*Short-term traffic prediction based on dynamic tensor completion*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7407622). IEEE Transactions on Intelligent Transportation Systems, 17(8), 2123-2133.
+
+- Tan, H., 2014. [*Weighted Tensor Completion-Based Traffic State Estimation Model*](http://or.nsfc.gov.cn/bitstream/00001903-5/417341/1/1000014132925.pdf). (Doctoral dissertation, Department of Transportation Engineering, Beijing Institute of Technology, Beijing).
+
+- Tang, K., Chen, S., Liu, Z., & Khattak, A. J., 2018. [*A tensor-based Bayesian probabilistic model for citywide personalized travel time estimation*](https://ac.els-cdn.com/S0968090X18303103/1-s2.0-S0968090X18303103-main.pdf?_tid=e7c78810-161a-4ab0-a607-415f4284667c&acdnat=1547346249_ac0108cc9c82e65f4fa8f677058a4e92). Transportation Research Part C: Emerging Technologies, 90, 260-280.
 
 
