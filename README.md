@@ -57,6 +57,9 @@
 
 - Tamara G. Kolda, Brett W. Bader, 2009. [*Tensor Decompositions and Applications*](https://www.sandia.gov/~tgkolda/pubs/pubfiles/TensorReview.pdf). SIAM REVIEW Vol. 51, No. 3. pp. 455-500.
 
+- Sidiropoulos, N. D., De Lathauwer, L., Fu, X., Huang, K., Papalexakis, E. E., & Faloutsos, C., 2017. [*Tensor decomposition for signal processing and machine learning*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7891546). IEEE Transactions on Signal Processing, 65(13), 3551-3582.
+
+
 ## 第三章  统计学习基础
 
 第一节  最大似然估计
@@ -81,7 +84,7 @@
 
 - Blei, D. M., Kucukelbir, A., & McAuliffe, J. D., 2017. [*Variational inference: A review for statisticians*](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2017.1285773?needAccess=true). Journal of the American Statistical Association, 112(518), 859-877.
 
-
+- Gershman, S. J., & Blei, D. M., 2012. [*A tutorial on Bayesian nonparametric models*](https://ac.els-cdn.com/S002224961100071X/1-s2.0-S002224961100071X-main.pdf?_tid=6da6d060-9b18-4c24-a0f9-ee1877378a7f&acdnat=1547348438_c822cbd92c4f9465557bbfa22bb3dc99). Journal of Mathematical Psychology, 56(1), 1-12.
 
 ## 第四章  矩阵分解
 
@@ -114,6 +117,8 @@
 - Tipping, M. E., & Bishop, C. M., 1999. [*Probabilistic principal component analysis*](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/1467-9868.00196). Journal of the Royal Statistical Society: Series B (Statistical Methodology), 61(3), 611-622.
 
 - Bishop, C. M., 1999. [*Bayesian pca*](http://papers.nips.cc/paper/1549-bayesian-pca.pdf). In Advances in neural information processing systems (pp. 382-388).
+
+- Schölkopf, B., Smola, A., & Müller, K. R., 1997. [*Kernel principal component analysis*](https://link.springer.com/content/pdf/10.1007%2FBFb0020217.pdf). In International Conference on Artificial Neural Networks (pp. 583-588). Springer, Berlin, Heidelberg.
 
 ## 第六章  张量分解
 
@@ -161,6 +166,9 @@
 - Gopalan, P., Hofman, J. M., & Blei, D. M., 2013. [*Scalable recommendation with poisson factorization*](https://arxiv.org/pdf/1311.1704.pdf). arXiv.
 
 - Gopalan, P., Hofman, J. M., & Blei, D. M., 2015. [*Scalable Recommendation with Hierarchical Poisson Factorization*](http://www.cs.columbia.edu/~blei/papers/GopalanHofmanBlei2015.pdf). In UAI (pp. 326-335).
+
+- Rai, P., Hu, C., Harding, M., & Carin, L., 2015. [*Scalable Probabilistic Tensor Factorization for Binary and Count Data*](https://ccc.glgoo.top/scholar?hl=zh-CN&as_sdt=0%2C5&q=Scalable+Probabilistic+Tensor+Factorization+for+Binary+and+Count+Data&btnG=). In IJCAI (pp. 3770-3776).
+
 
 
 ## 第九章  深度张量分解
