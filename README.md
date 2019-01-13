@@ -51,7 +51,7 @@ Contents
 
 - Cichocki, A., Phan, A. H., Zhao, Q., Lee, N., Oseledets, I., Sugiyama, M., & Mandic, D. P., 2017. [*Tensor networks for dimensionality reduction and large-scale optimization: Part 2 applications and future perspectives*](https://www.nowpublishers.com/article/DownloadSummary/MAL-067). Foundations and Trends® in Machine Learning, 9(6), 431-673.
 
-- CICHOCKI, Andrzej, et al., 2009. [*Nonnegative matrix and tensor factorizations: applications to exploratory multi-way data analysis and blind source separation*](https://sci.hub.ac.cn/scholar?hl=zh-TW&as_sdt=0%2C5&q=Nonnegative+Matrix+and+Tensor+Factorizations&btnG=). John Wiley & Sons, 2009.
+- CICHOCKI, Andrzej, et al., 2009. [*Nonnegative matrix and tensor factorizations: applications to exploratory multi-way data analysis and blind source separation*](https://sci.hub.ac.cn/scholar?hl=zh-TW&as_sdt=0%2C5&q=Nonnegative+Matrix+and+Tensor+Factorizations&btnG=). John Wiley & Sons.
 
 
 ## 第二章 张量计算的数学基础
