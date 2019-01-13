@@ -123,7 +123,7 @@ Contents
 
 - Hoffman, M. D., Blei, D. M., Wang, C., & Paisley, J., 2013. [*Stochastic variational inference*](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf). The Journal of Machine Learning Research, 14(1), 1303-1347.
 
-- ANDRIEU, Christophe, et al., 2013. [*An introduction to MCMC for machine learning*](https://link.springer.com/content/pdf/10.1023%2FA%3A1020281327116.pdf). Machine learning, 2003, 50.1-2: 5-43.
+- ANDRIEU, Christophe, et al., 2003. [*An introduction to MCMC for machine learning*](https://link.springer.com/content/pdf/10.1023%2FA%3A1020281327116.pdf). Machine learning, 50(1-2), 5-43.
 
 ## 第四章 矩阵分解
 
