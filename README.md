@@ -130,6 +130,9 @@
 
 - Tamara G. Kolda, Brett W. Bader, 2009. [*Tensor Decompositions and Applications*](https://www.sandia.gov/~tgkolda/pubs/pubfiles/TensorReview.pdf). SIAM REVIEW Vol. 51, No. 3. pp. 455-500.
 
+- Oseledets, I. V., 2011. [*Tensor-train decomposition*](https://epubs.siam.org/doi/pdf/10.1137/090752286). SIAM Journal on Scientific Computing, 33(5), 2295-2317.
+
+
 ## 第七章  低秩张量复原
 
 第一节  核范数最小化
