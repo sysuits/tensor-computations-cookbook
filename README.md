@@ -8,8 +8,8 @@ Contents
 --------
 
 -   [第一章    总论](#第一章-总论)
--   [第二章    张量计算的数学基础](##第二章-张量计算的数学基础)
--   [第三章    统计学习基础](##第三章-统计学习基础)
+-   [第二章    张量计算的数学基础](#two)
+-   [第三章    统计学习基础](#第三章-统计学习基础)
 -   [第四章    矩阵分解](#第四章-矩阵分解)
 -   [第五章    主成分分析与压缩感知](#第五章-主成分分析与压缩感知)
 -   [第六章    张量分解](#第六章-张量分解)
@@ -47,7 +47,7 @@ Contents
 - Cichocki, A., Phan, A. H., Zhao, Q., Lee, N., Oseledets, I., Sugiyama, M., & Mandic, D. P., 2017. [*Tensor networks for dimensionality reduction and large-scale optimization: Part 2 applications and future perspectives*](https://www.nowpublishers.com/article/DownloadSummary/MAL-067). Foundations and Trends® in Machine Learning, 9(6), 431-673.
 
 
-## 第二章  张量计算的数学基础
+## Two
 
 第一节  张量的代数结构
 
