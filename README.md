@@ -9,15 +9,15 @@ Contents
 
 -   [第一章    总论](#第一章-总论)
 -   [第二章    张量计算的数学基础](#第二章-张量计算的数学基础)
--   [第三章    统计学习基础](#第三章-统计学习基础)
--   [第四章    矩阵分解](#第四章-矩阵分解)
--   [第五章    主成分分析与压缩感知](#第五章-主成分分析与压缩感知)
--   [第六章    张量分解](#第六章-张量分解)
--   [第七章    低秩张量复原](#第七章-低秩张量复原)
--   [第八章    贝叶斯张量分解](#第八章-贝叶斯张量分解)
--   [第九章    深度张量分解](#第九章-深度张量分解)
--   [第十章    张量与交通数据修复](#第十章-张量与交通数据修复)
--   [第十一章  张量分解与交通预测](#第十一章-张量分解与交通预测)
+-   [第三章    统计学习基础](#three)
+-   [第四章    矩阵分解](#four)
+-   [第五章    主成分分析与压缩感知](#five)
+-   [第六章    张量分解](#six)
+-   [第七章    低秩张量复原](#seven)
+-   [第八章    贝叶斯张量分解](#eight)
+-   [第九章    深度张量分解](#nine)
+-   [第十章    张量与交通数据修复](#ten)
+-   [第十一章  张量分解与交通预测](#eleven)
   
 ## 第一章 总论
 
@@ -80,7 +80,7 @@ Contents
 - Sidiropoulos, N. D., De Lathauwer, L., Fu, X., Huang, K., Papalexakis, E. E., & Faloutsos, C., 2017. [*Tensor decomposition for signal processing and machine learning*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7891546). IEEE Transactions on Signal Processing, 65(13), 3551-3582.
 
 
-## 第三章  统计学习基础
+## Three
 
 第一节  最大似然估计
 
@@ -106,7 +106,7 @@ Contents
 
 - Gershman, S. J., & Blei, D. M., 2012. [*A tutorial on Bayesian nonparametric models*](https://ac.els-cdn.com/S002224961100071X/1-s2.0-S002224961100071X-main.pdf?_tid=6da6d060-9b18-4c24-a0f9-ee1877378a7f&acdnat=1547348438_c822cbd92c4f9465557bbfa22bb3dc99). Journal of Mathematical Psychology, 56(1), 1-12.
 
-## 第四章  矩阵分解
+## Four
 
 第一节  特征值分解
 
@@ -123,7 +123,7 @@ Contents
 - Golub, G. H., & Van Loan, C. F., 2012. [*Matrix computations*](https://sci-hub.org.cn/scholar?hl=zh-CN&as_sdt=0%2C5&q=Matrix+computions&btnG=&oq=Qibin+)(Vol. 3). JHU Press.
 
 
-## 第五章  主成分分析与压缩感知
+## Five
 
 第一节  主成分分析
 
@@ -143,7 +143,7 @@ Contents
 
 - Schölkopf, B., Smola, A., & Müller, K. R., 1997. [*Kernel principal component analysis*](https://link.springer.com/content/pdf/10.1007%2FBFb0020217.pdf). In International Conference on Artificial Neural Networks (pp. 583-588). Springer, Berlin, Heidelberg.
 
-## 第六章  张量分解
+## Six
 
 第一节  Tucker分解
 
@@ -160,7 +160,7 @@ Contents
 
 
 
-## 第七章  低秩张量复原
+## Seven
 
 第一节  核范数最小化
 
@@ -173,7 +173,7 @@ Contents
 - Chen, Y. L., Hsu, C. T., & Liao, H. Y. M., 2014. [*Simultaneous tensor decomposition and completion using factor priors*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6587455). IEEE transactions on pattern analysis and machine intelligence, 36(3), 577-591.
 
 
-## 第八章  贝叶斯张量分解
+## Eight
 
 第一节  高斯张量分解
 
@@ -201,7 +201,7 @@ Contents
 
 
 
-## 第九章  深度张量分解
+## Nine
 
 第一节  贝叶斯神经网络
 
@@ -223,7 +223,7 @@ Contents
   
 第四节  本章参考文献
 
-## 第十章  张量与交通数据修复
+## Ten
 
 第一节  缺失交通数据修复
 
@@ -252,7 +252,7 @@ Contents
 - Asif, M. T., Mitrovic, N., Dauwels, J., & Jaillet, P, 2016. [*Matrix and tensor based methods for missing data estimation in large traffic networks*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7384738). IEEE Transactions on Intelligent Transportation Systems, 17(7), 1816-1825.
 
 
-## 第十一章  张量分解与交通预测
+## Eleven
 
 第一节  以相似性为基础的交通预测模型
 
