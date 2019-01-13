@@ -119,6 +119,9 @@ Contents
 
 - Gershman, S. J., & Blei, D. M., 2012. [*A tutorial on Bayesian nonparametric models*](https://ac.els-cdn.com/S002224961100071X/1-s2.0-S002224961100071X-main.pdf?_tid=6da6d060-9b18-4c24-a0f9-ee1877378a7f&acdnat=1547348438_c822cbd92c4f9465557bbfa22bb3dc99). Journal of Mathematical Psychology, 56(1), 1-12.
 
+- Hoffman, M. D., Blei, D. M., Wang, C., & Paisley, J., 2013. [*Stochastic variational inference*](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf). The Journal of Machine Learning Research, 14(1), 1303-1347.
+
+- ANDRIEU, Christophe, et al., 2013. [*An introduction to MCMC for machine learning*](https://link.springer.com/content/pdf/10.1023%2FA%3A1020281327116.pdf). Machine learning, 2003, 50.1-2: 5-43.
 
 ## 第四章 矩阵分解
 
@@ -137,6 +140,11 @@ Contents
 - Golub, G. H., & Van Loan, C. F., 2012. [*Matrix computations*](https://sci-hub.org.cn/scholar?hl=zh-CN&as_sdt=0%2C5&q=Matrix+computions&btnG=&oq=Qibin+)(Vol. 3). JHU Press.
 
 - Salakhutdinov, R., & Mnih, A., 2008. [*Bayesian probabilistic matrix factorization using Markov chain Monte Carlo*](http://delivery.acm.org/10.1145/1400000/1390267/p880-salahutdinov.pdf?ip=120.236.174.155&id=1390267&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E3D07CFA6C3F555EA%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1547381467_6d56beef989a8ce01131507553552fa1). In Proceedings of the 25th international conference on Machine learning (pp. 880-887). ACM.
+
+- Shahnaz, F., Berry, M. W., Pauca, V. P., & Plemmons, R. J., 2006. [*Document clustering using nonnegative matrix factorization*](https://ac.els-cdn.com/S0306457304001542/1-s2.0-S0306457304001542-main.pdf?_tid=abdf3829-8ebc-4afc-b7f4-86d2c2d32446&acdnat=1547382759_8bb285c19eddbd86fc94312bef66a489). Information Processing & Management, 42(2), 373-386.
+
+- Kim, J., & Park, H., 2008. [*Sparse nonnegative matrix factorization for clustering*](https://smartech.gatech.edu/bitstream/handle/1853/20058/GT-CSE-08-01.pdf?sequence=1&isAllowed=y). Georgia Institute of Technology.
+
 
 ## 第五章 主成分分析与压缩感知
 
@@ -158,6 +166,13 @@ Contents
 
 - Schölkopf, B., Smola, A., & Müller, K. R., 1997. [*Kernel principal component analysis*](https://link.springer.com/content/pdf/10.1007%2FBFb0020217.pdf). In International Conference on Artificial Neural Networks (pp. 583-588). Springer, Berlin, Heidelberg.
 
+- Candes, E. J., & Plan, Y., 2010. [*Matrix completion with noise*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5454406). Proceedings of the IEEE, 98(6), 925-936.
+
+- Keshavan, R. H., Montanari, A., & Oh, S., 2010. [*Matrix completion from a few entries*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5466511). IEEE transactions on information theory, 56(6), 2980-2998.
+
+- Shen, H., & Huang, J. Z., 2008. [*Sparse principal component analysis via regularized low rank matrix approximation*](https://core.ac.uk/download/pdf/82392248.pdf). Journal of multivariate analysis, 99(6), 1015-1034.
+
+
 ## 第六章 张量分解
 
 第一节  Tucker分解
@@ -171,6 +186,8 @@ Contents
 - Oseledets, I. V., 2011. [*Tensor-train decomposition*](https://epubs.siam.org/doi/pdf/10.1137/090752286). SIAM Journal on Scientific Computing, 33(5), 2295-2317.
 
 - Yuan, L., Li, C., 2018. [*Tensor Ring Decomposition with Rank Minimization on Latent Space: An Efficient Approach for Tensor Completion*](https://arxiv.org/pdf/1809.02288.pdf). arXiv.
+
+- Nickel, M., Tresp, V., & Kriegel, H. P., 2011. [*A Three-Way Model for Collective Learning on Multi-Relational Data*](http://www.cip.ifi.lmu.de/~nickel/data/slides-icml2011.pdf). In ICML (Vol. 11, pp. 809-816).
 
 
 ## 第七章 低秩张量复原
@@ -291,5 +308,3 @@ Contents
 - Tan, H., 2014. [*Weighted Tensor Completion-Based Traffic State Estimation Model*](http://or.nsfc.gov.cn/bitstream/00001903-5/417341/1/1000014132925.pdf). (Doctoral dissertation, Department of Transportation Engineering, Beijing Institute of Technology, Beijing).
 
 - Tang, K., Chen, S., Liu, Z., & Khattak, A. J., 2018. [*A tensor-based Bayesian probabilistic model for citywide personalized travel time estimation*](https://ac.els-cdn.com/S0968090X18303103/1-s2.0-S0968090X18303103-main.pdf?_tid=e7c78810-161a-4ab0-a607-415f4284667c&acdnat=1547346249_ac0108cc9c82e65f4fa8f677058a4e92). Transportation Research Part C: Emerging Technologies, 90, 260-280.
-
-
